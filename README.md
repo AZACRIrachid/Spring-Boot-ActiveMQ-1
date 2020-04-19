@@ -1,1 +1,1 @@
-# Spring-Boot-ActiveMQ-1
+# Spring-Boot-ActiveMQ-In-Memory
